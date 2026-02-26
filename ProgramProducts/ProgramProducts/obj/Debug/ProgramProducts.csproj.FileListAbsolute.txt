@@ -1,0 +1,29 @@
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\bin\Debug\ProgramProducts.exe.config
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\bin\Debug\ProgramProducts.exe
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\bin\Debug\ProgramProducts.pdb
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.csproj.AssemblyReference.cache
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.Registration.resources
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.Properties.Resources.resources
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.csproj.GenerateResource.cache
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.csproj.CoreCompileInputs.cache
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.exe
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.pdb
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.UpdatePassword.resources
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.AdminForm.resources
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.RequestsForm.resources
+C:\Users\dzhey\Downloads\UPPM07\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.UserForm.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\bin\Debug\ProgramProducts.exe.config
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\bin\Debug\ProgramProducts.exe
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\bin\Debug\ProgramProducts.pdb
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.AdminForm.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.Registration.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.Properties.Resources.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.RequestsForm.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.UpdatePassword.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.UserForm.resources
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.exe
+\\192.168.3.250\Veda\4 Курс\ИСП 43\Отчеты ИСП 43-9, 44-11 УП ПМ.07\Емельянов\ProgramProducts\ProgramProducts\obj\Debug\ProgramProducts.pdb
